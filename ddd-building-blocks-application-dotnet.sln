@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TBureck.BuildingBlocks.Application", "src\TBureck.BuildingBlocks.Application\TBureck.BuildingBlocks.Application.csproj", "{9717A42D-69F3-49F4-9D3A-6C3EB66445AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{270C9A80-45BF-4FC8-A800-B4FCFC58AB58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{805E869C-A463-4DBC-B3B8-EC7486D4A934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TBureck.BuildingBlocks.Application.Tests", "tests\TBureck.BuildingBlocks.Application.Tests\TBureck.BuildingBlocks.Application.Tests.csproj", "{DF89D9FE-A5F8-4BCB-81FE-EB2CAA88904B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9717A42D-69F3-49F4-9D3A-6C3EB66445AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9717A42D-69F3-49F4-9D3A-6C3EB66445AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9717A42D-69F3-49F4-9D3A-6C3EB66445AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9717A42D-69F3-49F4-9D3A-6C3EB66445AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF89D9FE-A5F8-4BCB-81FE-EB2CAA88904B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF89D9FE-A5F8-4BCB-81FE-EB2CAA88904B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF89D9FE-A5F8-4BCB-81FE-EB2CAA88904B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF89D9FE-A5F8-4BCB-81FE-EB2CAA88904B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9717A42D-69F3-49F4-9D3A-6C3EB66445AA} = {270C9A80-45BF-4FC8-A800-B4FCFC58AB58}
+		{DF89D9FE-A5F8-4BCB-81FE-EB2CAA88904B} = {805E869C-A463-4DBC-B3B8-EC7486D4A934}
+	EndGlobalSection
+EndGlobal
