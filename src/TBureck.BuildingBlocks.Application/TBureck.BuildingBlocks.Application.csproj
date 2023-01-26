@@ -4,6 +4,12 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <Version>0.1.0</Version>
+        <Title>TBureck's DDD Building Blocks: Application</Title>
+        <Description>Basic classes to quickly bootstrap an application using the tactical Domain Driven Design pattern.</Description>
+        <PackageLicenseUrl>https://choosealicense.com/licenses/mit/</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/tbureck/ddd-building-blocks-application-dotnet</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
     </PropertyGroup>
 
     <ItemGroup>
